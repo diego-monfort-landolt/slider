@@ -28,7 +28,7 @@ body {
 .slider {
     display: flex;
     width: 400%;
-    height: 400px;
+    height: 200px;
 
     margin-left: -100%;
 }

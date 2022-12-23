@@ -51,4 +51,4 @@ btnLeft.addEventListener('click', function(){
 //alle 2s wird der slider selbst ausgelösst - für die andre richtung Prev()
 setInterval(function(){
     Next();
-}, 2000);
+}, 5000);
